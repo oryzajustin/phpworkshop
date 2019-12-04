@@ -1,7 +1,7 @@
 <?php
 $dbhost = "localhost";
-$dbuser= "root";
-$dbpass = "superman4";
+$dbuser= "ta";
+$dbpass = "cs3319";
 $dbname = "vetoffice";
 $connection = mysqli_connect($dbhost, $dbuser,$dbpass,$dbname);
 if (mysqli_connect_errno()) {
